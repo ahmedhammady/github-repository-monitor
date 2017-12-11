@@ -1,5 +1,6 @@
 {
   "name": "repository-monitor",
+  "homepage": "https://ahmedhammady.github.io/github-repository-monitor/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
